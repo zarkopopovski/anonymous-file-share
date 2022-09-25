@@ -1,2 +1,2 @@
-# anonymous-file-share
-Anonymous File Share
+# Anonymous File Share
+Personal anonymous file sharing
