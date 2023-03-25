@@ -1,2 +1,2 @@
-# Easy File Share
+# Anonymous File Share
 Simple restful file sharing
